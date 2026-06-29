@@ -16,6 +16,8 @@ export default function Header() {
     <div
       id="header-container"
       className="flex justify-between items-center p-4 bg-white shadow-sm"
+
+      
     >
 
       {/* ── 2️⃣ Search Bar ── */}
